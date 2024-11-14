@@ -10,3 +10,4 @@
 carlosdelos/carlosdelos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![inicio bonito web](https://github.com/user-attachments/assets/44d730eb-3711-4da7-bb01-9c898c48be77)
