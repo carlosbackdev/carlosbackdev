@@ -3,6 +3,7 @@
 
 - 💞️ I’m looking to collaborate on projects like developer.
 - 📫 How to reach me in mail carlosbackdev@gmail.com.
+- 🏢 apply for me on [Linkedin](www.linkedin.com/in/carlos-arroyo-dev)
 - ✨ Visit my Website https://www.carlosbackdev.com
   
 - _*traduce la página si lo necesitas*_
