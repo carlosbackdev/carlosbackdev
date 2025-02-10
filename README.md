@@ -1,7 +1,6 @@
 #	:earth_africa: 'Hi word' I’m CARLOS ARROYO :wave:
 ## I’m interested in **developing backend** projects 🚀
 
-- 💞️ I’m looking to collaborate on projects like developer.
 - 📫 How to reach me in mail carlosbackdev@gmail.com.
 - 🏢 apply for me on [Linkedin](www.linkedin.com/in/carlos-arroyo-dev)
 - ✨ Visit my Website https://www.carlosbackdev.com
