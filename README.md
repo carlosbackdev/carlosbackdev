@@ -1,9 +1,5 @@
 #	:earth_africa: 'Hi word' I’m CARLOS ARROYO :wave:
 ## I’m interested in **developing backend** projects 🚀
-
-- 📫 How to reach me in mail carlosbackdev@gmail.com.
-- 🏢 apply for me on [Linkedin](www.linkedin.com/in/carlos-arroyo-dev)
-- ✨ Visit my Website https://www.carlosbackdev.com
   
 - _*traduce la página si lo necesitas*_
 ---
@@ -27,7 +23,8 @@ Over the past few months, I have been working on a project to create a multi-pla
 **Main technologies used**:
 - **Spring Boot**: For the RESTful ➡️ [API](https://github.com/carlosbackdev/ElecIdea-Api-SpringBoot) 🌱
 - **Java**: For the desktop ➡️ [APP DESK](https://github.com/carlosbackdev/ElecIdea-App-Desktop-Java) ☕
-- **JavaScript**: For connecting the web with the backend ➡️ [WEB](https://github.com/carlosbackdev/ElecIdea-Web-App) 🔄
+- **JavaScript and TypeScript**: For connecting the web with the backend ➡️ [WEB](https://github.com/carlosbackdev/ElecIdea-Web-App) 🔄
+- **Angular**:
 - **MySQL**: For the database 🗄️
 - **HTML and CSS**: For the web pages and styles 🎨
 - **Docker**: For deploying the API 🐳
@@ -57,6 +54,10 @@ Over the past few months, I have been working on a project to create a multi-pla
 
   
 💡 Do you have an idea? Are you looking for someone to turn a concept into reality? 💻 
+
+- 📫 How to reach me in mail carlosbackdev@gmail.com.
+- 🏢 apply for me on [Linkedin](www.linkedin.com/in/carlos-arroyo-dev)
+- ✨ Visit my Website https://www.carlosbackdev.com
 
 If you are developing an idea or simply want to share your thoughts, write to me! 📬 Together we can do something great. Teamwork doesn’t add up, it multiplies. Let’s do something great together! 🚀
 
