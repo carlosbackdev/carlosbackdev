@@ -74,8 +74,8 @@ The final result is a business management software designed for freelancers and 
 - **Proactive attitude**: I am always willing to take the initiative and seek innovative solutions.
 
 # 🥇 My values
-- **dedicated**: **+500** hours **coding** and 4 **big Proyects** in the three last months.
-- **Innovation**: I always look for new ways to improve and create.
+- **dedicated**: **+600** hours **coding** and 4 **big Proyects** in the three last months.
+- **Innovation**: I always look for new ways to improve and create and implements Ia.
 - **Collaboration**: I believe that teamwork is the key to success.
 - **Entrepreneurship**: Personal and professional growth.
 
