@@ -9,7 +9,7 @@
 ### my tecnology stack:
 
 
-![STACK TECNOLOGICO](https://github.com/user-attachments/assets/110beaff-4b10-4c58-abfd-763787dbc990)
+![STACK TECNOLOGICO](https://github.com/user-attachments/assets/66de2647-0ea4-4f40-b9b9-3065e575e399)
 
 ---
 
